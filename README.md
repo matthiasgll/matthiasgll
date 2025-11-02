@@ -37,7 +37,3 @@
 <img align="right" height="150" src="https://github.com/matthiasgll/matthiasgll/blob/main/DonaldDuckPB.jpg?raw=true"  />
 
 ###
-
-<img src="https://raw.githubusercontent.com/matthiasgll/matthiasgll/output/snake.svg" alt="Snake animation" />
-
-###
